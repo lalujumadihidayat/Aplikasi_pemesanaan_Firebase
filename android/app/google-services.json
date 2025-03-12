@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "406646043845",
+    "project_id": "mob3-uas-klp-9",
+    "storage_bucket": "mob3-uas-klp-9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406646043845:android:b6cd97263f0982572b6cac",
+        "android_client_info": {
+          "package_name": "com.example.mob3_uas_klp_09"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPohD1FMs3LdKfNb5Y6amC0nXRCzsWmBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
